@@ -2,7 +2,7 @@
 <html>
     <body>
       <h1> 
-        Time Management System.
+        Time Table Management System.
       </h1>
       <h3> Coordinator: Mr.Gaurav Kumar</h3>
       <hr>
