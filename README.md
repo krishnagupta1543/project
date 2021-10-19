@@ -9,14 +9,10 @@
       <h2>
         Our Team
       <br></h2>
-       <h3>Krishna Gupta</h3><br>
-       <img src="krishna.png" width="20%"><br>
-        <h3>Kamran Ali</h3><br>
-        <img src="kamran.png" width="20%"><br>
+        <h3>Krishna Gupta</h3>
+        <h3>Kamran Ali</h3>
         <h3>Kusum Rani</h3>
-      <img src = "kusum.png" width = "20%"><br>
-      <h3>Gunjan Singh</h3>
-      <img src = "gunjan.png" width = "20%"></br>
+        <h3>Gunjan Singh</h3>
        <hr>
           <h2>
             Aim of Our Project <br>
