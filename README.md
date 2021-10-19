@@ -29,7 +29,7 @@
                 To make it easy for students to see what will be there next class<br>
             </li>
             <li>
-                To make an automated time management system <br>
+                To make an automated time table management system <br>
             </li>
             <li>
                 To make a system which will be helpfull for students as well as teachers
