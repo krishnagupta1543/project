@@ -1,0 +1,81 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.heroimage {
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    background-color: rgb(114, 248, 203);
+    
+}
+.herro_wrapper {
+    color: wheat;
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    transform: translate(-50%,-50%);
+}
+.herro_wrapper h1{
+    font-size: 10mm;
+    color: rgb(228, 220, 220);
+
+}
+.herro_wrapper P{
+    color: black;
+
+}
+
+.formcoder .inp1 {
+    display: block;
+    width: 50%;
+    margin-left: 0%;
+    margin-right: auto;
+    border-radius: 3rem;
+    padding: 1rem;
+    border: none;
+}
+.formcoder .inp {
+    display: block;
+    width: 50%;
+    margin-left: 0%;
+    margin-right: auto;
+    border-radius: 3rem;
+    padding: 1rem;
+    border: none;
+    margin-top: 1rem;
+
+}
+.formcoder{
+    text-align: center;
+}
+.block {
+    width: 15%;
+    border-radius:3rem ;
+    background-color:antiquewhite;
+    padding: 8px 2px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    border: none;
+    margin-top: 1rem;
+}
+.block1 {
+    width: 15%;
+    border-radius:3rem ;
+    background-color:antiquewhite;
+    padding: 8px 2px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    border: none;
+    margin-top: 1rem;
+    margin-left: 8.5rem;
+}
+.herro_wrapper span{
+    color: black;
+    font-size: 4mm;
+    display: block;
+    margin-top: 2rem;
+}
